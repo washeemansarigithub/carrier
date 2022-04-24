@@ -1,0 +1,62 @@
+.top container{
+    background-image: -webkit-radial-gradient();
+    border list-style: dotted;
+    height:400;
+    width:400;
+    margin:50px auto 0 auto;
+    font-family:cursive;
+    color:white;
+}
+.first head{
+    background-color: red;
+}
+h2{
+    text-emphasis-color: blue;
+}
+.first-container{
+   border-color: sienna;
+    height: 400px;
+    width: 400px;
+     background:color=blue ;
+}
+.second-container{
+    background:color=green ;
+    height: 400px;
+    width: 400px;
+}
+.third-container{
+    background:color=red ;
+    height: 400px;
+    width: 400px;
+}
+.start{
+    }
+    .intermediate{
+      background-color: #22cc0b54;  
+    }
+    .first-container{
+
+    }
+   .FORTH HEAD{
+       background-color: springgreen;
+   }
+   .ug{
+       background-color: lime;
+   }
+   .art{
+       text-decoration-color: green;
+   }
+   .g1{
+       text-color:blue;
+   }
+   .g2{
+       background-color: maroon;
+   }
+   .ART{
+TEXT: SIZE 500PX;
+    text-decoration-color: seagreen;
+    HEIGHT:100PX;
+    WIDTH:100%;
+    background-color: darkred;
+    font-size-adjust: calc(100);
+   }
